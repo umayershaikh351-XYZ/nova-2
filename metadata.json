@@ -1,0 +1,6 @@
+{
+  "name": "NOVA",
+  "description": "Neural Omni Virtual Agent — AI Operating System with real-time device scanning and live world telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
